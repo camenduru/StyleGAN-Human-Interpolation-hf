@@ -17,7 +17,10 @@ from huggingface_hub import hf_hub_download
 sys.path.insert(0, 'StyleGAN-Human')
 
 TITLE = 'StyleGAN-Human (Interpolation)'
-DESCRIPTION = 'This is a demo for https://github.com/stylegan-human/StyleGAN-Human.'
+DESCRIPTION = '''This is a demo for https://github.com/stylegan-human/StyleGAN-Human.
+
+Related App: [StyleGAN-Human](https://huggingface.co/spaces/hysts/StyleGAN-Human)
+'''
 ARTICLE = None
 
 TOKEN = os.environ['TOKEN']
