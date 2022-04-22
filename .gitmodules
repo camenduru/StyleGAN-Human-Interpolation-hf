@@ -1,0 +1,3 @@
+[submodule "StyleGAN-Human"]
+	path = StyleGAN-Human
+	url = https://github.com/stylegan-human/StyleGAN-Human
