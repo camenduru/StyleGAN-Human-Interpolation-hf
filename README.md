@@ -1,5 +1,5 @@
 ---
-title: StyleGAN Human Interpolation
+title: StyleGAN-Human Interpolation
 emoji: 🏢
 colorFrom: blue
 colorTo: gray
