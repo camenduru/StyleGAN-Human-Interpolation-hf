@@ -18,11 +18,12 @@ sys.path.insert(0, 'StyleGAN-Human')
 
 TITLE = 'StyleGAN-Human (Interpolation)'
 DESCRIPTION = '''This is an unofficial demo for https://github.com/stylegan-human/StyleGAN-Human.
-(Expected Execution Time on Hugging Face Spaces: 0.8s for one image)
+
+Expected execution time on Hugging Face Spaces: 0.8s for one image
 
 Related App: [StyleGAN-Human](https://huggingface.co/spaces/hysts/StyleGAN-Human)
 '''
-ARTICLE = None
+ARTICLE = '<center><img src="https://visitor-badge.glitch.me/badge?page_id=hysts.stylegan-human-interpolation" alt="visitor badge"/></center>'
 
 TOKEN = os.environ['TOKEN']
 
